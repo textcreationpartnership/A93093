@@ -1,0 +1,375 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The false alarum or, An answer to a libell lately published, entituled, An alarum to the House of Lords, against their insolent usurpation of the Commons liberties, and the rights of this nation. Wherein the insolency and lying vanities of the author or authors, is described, the libertie of the subject discussed, and the just rights of the Lords vindicated. / Written by S. Shepheard.</title>
+            <author>Sheppard, S. (Samuel)</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1646</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 35 KB of XML-encoded text transcribed from 10 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A93093</idno>
+            <idno type="STC">Wing S3162</idno>
+            <idno type="STC">Thomason E350_2</idno>
+            <idno type="STC">ESTC R201039</idno>
+            <idno type="EEBO-CITATION">99861620</idno>
+            <idno type="PROQUEST">99861620</idno>
+            <idno type="VID">159828</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A93093)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 159828)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 57:E350[2])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The false alarum or, An answer to a libell lately published, entituled, An alarum to the House of Lords, against their insolent usurpation of the Commons liberties, and the rights of this nation. Wherein the insolency and lying vanities of the author or authors, is described, the libertie of the subject discussed, and the just rights of the Lords vindicated. / Written by S. Shepheard.</title>
+                  <author>Sheppard, S. (Samuel)</author>
+               </titleStmt>
+               <extent>[4], 12 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for John Hardesty, at the signe of the Black-spread Eagle in Duck-Lane,</publisher>
+                  <pubPlace>London, :</pubPlace>
+                  <date>1646.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>A reply to: Overton, Richard. An alarum to the House of Lords (Wing O618).</note>
+                  <note>Annotation on Thomason copy: "Aug: 11th".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Overton, Richard, fl. 1646. --  Alarum to the House of Lords --  Early works to 1800.</term>
+               <term>Lilburne, John, 1614?-1657. --  Early works to 1800.</term>
+               <term>England and Wales. --  Parliament. --  House of Lords --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2011-05</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2011-05</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-06</date>
+            <label>Olivia Bottum</label>Sampled and proofread</change>
+         <change>
+            <date>2011-06</date>
+            <label>Olivia Bottum</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:159828:1" rendition="simple:additions"/>
+            <p>THE FALSE ALARUM OR, An Anſwer to a Libell lately pub<g ref="char:EOLhyphen"/>liſhed, entituled, <hi>AN ALAR<g ref="char:V">Ʋ</g>M TO THE HO<g ref="char:V">Ʋ</g>SE OF LORDS, Against their Inſolent <g ref="char:V">Ʋ</g>ſurpation of the</hi> Commons Liberties, <hi>and the</hi> Rights <hi>of this</hi> Nation.</p>
+            <p>Wherein the Inſolency and lying vanities of the <hi>Author</hi> or <hi>Authors,</hi> is deſcribed, the Libertie of the Subject diſcuſſed, and the Juſt Rights of the LORDS vindicated.</p>
+            <q>
+               <hi>Mendacii nomine continentur Aſſentatores Calumniato<g ref="char:EOLhyphen"/>res, infidi conſilarii, perverſi educatores, qui Fontes ſunt fere Malorum omnium, quibus ſurſum deorſum turba<g ref="char:EOLhyphen"/>tur vita mortalium.</hi>
+            </q>
+            <q>
+               <bibl>2 TIM. 5. 8.</bibl>
+               <p>Now as Jannes and Jambres withſtood Moſes, ſo doe theſe men alſo reſiſt the Truth, Men of corrupt minds, reprobate concerning the Faith.</p>
+            </q>
+            <p>Written by <hi>S. SHEPHEARD.</hi>
+            </p>
+            <p>
+               <hi>London,</hi> Printed for <hi>Iohn Hardeſty,</hi> at the Signe of the <hi>Black<g ref="char:EOLhyphen"/>ſpread Eagle</hi> in <hi>Duck-Lane,</hi> 1646.</p>
+         </div>
+         <div type="to_the_reader">
+            <pb facs="tcp:159828:2"/>
+            <pb facs="tcp:159828:2"/>
+            <head>To the Reader.</head>
+            <p>
+               <hi>
+                  <seg rend="decorInit">G</seg>Entle Reader,</hi> This Pamphlet lately comming into my hands, and I peruſing the ſame, finding it notoriouſly ſeditious, could not in reference to the glory of God, and in thankefulneſſe to our Magiſtrates, but proceed to a briefe confutation thereof; not out of a minde deſirous of further debate, for I could cry out from the bottome of my heart, with <hi>Severinus</hi> the Dane, <hi>Infelix mortalitas, inutilibus quaeſtio<g ref="char:EOLhyphen"/>nibus ac Diſceptationibus vitam traducimus.</hi> 
+               <g ref="char:V">Ʋ</g>nhappy men as we are, we ſpend our daies in unprofitable queſtions, and diſputations; but woe to them by whom offences are given; and, <hi>Mutos naſci &amp; omni ſcientia egere ſatins fuiſſet, quam ſic in propriam perniciem inſanire,</hi> it had been much better for ſome of them to have been born dumb, and altoge<g ref="char:EOLhyphen"/>ther illiterate, then ſo far to dote on their own deſtruction; and yet it were a worke worthy of applauſe, if ſome ſecond <hi>Perſius</hi> would not onely rebuke, but lay open the wickedneſſe of this laſt and worſt of ages, which doth even make me to ſtand amazed to ſurvive in, living as if I lived not, to ſee how ſome men wholly led by affection, the guide of fooles, to admire and extoll one mans gifts to the clouds, ſleighting and vilifying another far more deſerving; to behold the inconſiderate multitude, like ſo many Dogs in a Countrey Town, if one barke all the reſt barke alſo, not minding the cauſe; to ſee a Scholler crouch, and be ridden and trampled on by an il<g ref="char:EOLhyphen"/>literate peaſant, and like another <hi>Plaums</hi> turne an hand-mill, to ſee a Faulkner or Huntſman get better wages then a Student, a ſpruce Lawyer get more in an houre then a plaine Philoſopher in a moneth; to ſee the wiſe
+<pb facs="tcp:159828:3"/> thruſt forth, while fooles are uſhered in; but I perhaps proceed too far and may be cenſured by ſome to be too ſharpe and ſatyricall; but if any man be offended</p>
+            <l>
+               <hi>—Licuit ſemperque licebit</hi>
+            </l>
+            <l>
+               <hi>Parcere perſonis, dicere de vitiis.</hi>
+            </l>
+            <l>It lawfull was of old, and will be aye</l>
+            <l>To ſpeake of vice, but of the name not ſay.</l>
+            <p>Now if thou ſhalt be deſirous to know the name of the Author whoſe Libell I ſhall anſwer, the truth is I cannot inform thee of that I know not; ſome aſcribe it to <hi>Lilburne,</hi> but the variety of repar<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>s leaves nothing certaine: but it is certaine whoever he was that was the Author thereof, he had an heart full fraught and boyling ore with malice and corruption, one harbouring a greater quantity of folly then he ſurmiſed; for though the Authour throughout his Pamphlet bring many rayling accuſations, yet the wiſe will eaſily diſcerne he hath done both fooliſhly and unadvi<g ref="char:EOLhyphen"/>ſedly; and not he alone, but his fellow <hi>Lilburne<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>,</hi> with their complices, though they are not all alike ſo evilly bent, yet</p>
+            <l>
+               <hi>Ille finiſtrorſum, hic dextrorſum, unus utrique</hi>
+            </l>
+            <l>
+               <hi>Error, ſed variis illudit partibus omnes.</hi>
+            </l>
+            <l>One leanes on this, another on that wall,</l>
+            <l>Tis the ſame error that deludes them all.</l>
+            <p>And indeed it is greatly to be wondred at, that theſe men being ſo frequent in Scripture, as appeares by their Arguments, when they wreſt the word, ſhould not be convicted of their errors; but were there not ſuch, how ſhould the Scripture be fulfilled, which ſaith, <hi>In the laſt times many ſhall de<g ref="char:EOLhyphen"/>part from the truth; that ſome ſhall privily refuſe to obey Magi<g ref="char:EOLhyphen"/>grates, and ſpeake evill of Dignities, that they ſhall have itching eares, and deſpiſing the true Miniſters of God, heape to them Tea<g ref="char:EOLhyphen"/>chers.</hi> Theſe places conſidered, may cauſe us to looke up to Heaven, and thank our gracious God, that hath not made us partakers of their crimes, and to deſire him to be our ſupporter and guide, to the end we be not ſun<g ref="char:EOLhyphen"/>ken under the preſſures of calamity, or being freed there from, loſe not our ſoules and bodies, while we wander in this labyrinth of <hi>Ills,</hi> the <hi>World.</hi> Thus Gentle Reader, deſiring thy favourable acceptance of this Tract, I commit thee to his protection that made thee, and died for thee, I remain,</p>
+            <closer>
+               <signed>
+                  <hi>Thine, as thou art mine,</hi> S. S.</signed>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb n="1" facs="tcp:159828:3"/>
+            <head>AN Anſwer to a Libell, lately publiſhed, entituled, <hi>An Alarum to the Houſe of</hi> LORDS, <hi>againſt their inſolent uſurpation of the Commons Liberties and Rights of this Nation, &amp;c.</hi>
+            </head>
+            <p>I Remember a pretty fable of an ancient authour, bearing in my opinion a moſt excellent morall. There was, ſaith he, a great contention once about the weather, the Seamen com<g ref="char:EOLhyphen"/>plaining of contrary winds, when thoſe of the high Coun<g ref="char:EOLhyphen"/>tries deſired raine, and thoſe of the valleys Sunſhining daies; each party offered up oriſons to <hi>Jove; Jupiter</hi> ſent them word by <hi>Mercury,</hi> THEN WHEN THEY HAD ALL DONE, THE WEATHER SHOULD BEE, AS IT HAD BEEN; and it will even ſo fall out with all our complainers and murmurers, that when they have wearied themſelves, to procure the fulfilling of their fond fancies, they have ſpent their time in vain, and God guideth his Church as before. But to the matter we intend.</p>
+            <p>The wiſdome of our own age is the fooliſhneſſe of ano<g ref="char:EOLhyphen"/>ther, the time preſent ought not to be preferd to the policy that was, but the policy that was to the time preſent; the power of the Nobility perhaps ſomething withered, and the power of the People in the flower; the care to content them would not be neglected, were there no ends but Politicall, which ought to be intire and fatherly. Now were it ſo that the Lords were guilty of this crime of neglecting the welfare of the people, and of a deſire to accrew to themſelves Soveraignty over them, which no man on
+<pb n="2" facs="tcp:159828:4"/> earth can truely affirme, then it were ſeaſonable and very conve<g ref="char:EOLhyphen"/>nient to warn them, and to deſire a ſpeedy remedy; yet this ought to be done diſcreetly and with reverence as to our Rulers and Go<g ref="char:EOLhyphen"/>vernours, and not raſhly, and uſing contumelious threats.</p>
+            <p>But for as much, as I ſaid before, as there is no man on earth that can juſtly accuſe them of the premiſes, ſave a ſort of malicious, evill, and ſordid perſons, deſirous of trouble and innovation, who becauſe they are not ſuffered to proceed in their deſtructive courſes, rayle and exclaime againſt their oppoſers, and being deſ<g ref="char:EOLhyphen"/>perate themſelves, uſe all art both by writing and ſpeaking, to in<g ref="char:EOLhyphen"/>volve as many as they may into their deſperate condition; which hath been the conſtant courſe of ſeditious and rebellions perſons in all ages, who did they but know the filth and corruption they harbour, would <gap reason="illegible" resp="#UOM" extent="2 letters">
+                  <desc>••</desc>
+               </gap>p up their own breaſts to let it forth, and accor<g ref="char:EOLhyphen"/>ding to the Divine Philoſopher, and excellent Poet,</p>
+            <l>
+               <note n="*" place="margin">Seneca in Herc. Oet.</note> 
+               <hi>O ſi pateant pectora Divitum,</hi>
+            </l>
+            <l>
+               <hi>Quantos intus ſublimis agit</hi>
+            </l>
+            <l>
+               <hi>Fortuna metus! Brutia coro</hi>
+            </l>
+            <l>
+               <hi>Pulſante fretum, mitior unda eſt.</hi>
+            </l>
+            <l>O that their breaſts were but conſpicuous,</l>
+            <l>How full of feare within, how furious,</l>
+            <l>The narrow Seas are not ſo boyſterous.</l>
+            <p>But let them proceed and make up their meaſure of ſin; the Lord in his good time will open their eyes, and diſcover to them their evill waies, or elſe will reſtraine their ſtrength and fury, and that for the good of his Church. Proceed we now to confute our cavil<g ref="char:EOLhyphen"/>ling Libeller. He begins thus, after an audacious manner, ſpeaking to the Houſe of Lords,</p>
+            <p>
+               <hi>In the firſt place we demand of you a reaſon, why you which are ſuch <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>rrogaters of Titles of Honour, ſhould of all others ſleight him ſo far as to ſ<gap reason="illegible" resp="#UOM" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>le him only</hi> John Lilburne, <hi>though you know him to be a true born Gen<g ref="char:EOLhyphen"/>tleman; nor Lieutenant Colonell, though you know him to be a valiant and faithfull Souldier for his Countries liberties.</hi>
+            </p>
+            <p>CHARON in <hi>Lucian</hi> as he wittily feints, was conducted by MERCURY to ſuch a place where he might ſee all the world at once; and after he had ſufficiently viewed and looked about, MERCURY would needs know of him what he had obſerved. He told him he ſaw a raſt multitude and a <gap reason="illegible" resp="#UOM" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap>; their
+<pb n="3" facs="tcp:159828:4"/> habitations like Mole-hils, the men like Emmets; He could diſcerne Cities like ſo many hives of Bees, wherein every Bee had a ſting, and they did nought elſe but ſting one another. Some domineering like Hornets bigger then the reſt, ſome like filthy Waſpes, others as Drones; over their heads were hovering a confuſed number of perturbations, HOPE, FEARE, ANGER, AVARICE, IGNORANCE, &amp;c. and a multitude of Diſeaſes hanging over, which they ſtill pulled on their heads; ſome were brawling, ſome fighting, riding, running, <hi>ſollicite ambientes, <gap reason="illegible" resp="#UOM" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>llid<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> litiga<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>tes,</hi> for toys, and trifles, and ſuch momentary things, their Towns and Provin<g ref="char:EOLhyphen"/>ces mere factions, Rich againſt poore, poore againſt rich, Nobles deſpiſed by Artificers, &amp;c.</p>
+            <p>Aptly and to excellent purpoſe is the world compared by <hi>Lucian</hi> to a garden of Bees; but more aptly may I apply this tale to the Kingdome of England, our habitations indeed, to our fight the ſtrongeſt, but Mole-hils; for a blaſt of wind overturneth them; our ſelves cannot be fitlier compared then to Emmets, for if the anger of the Lord doe but blow upon us we wither away, and are gone; our Cities may fitly be compared each to a Bee hire<g ref="char:punc">▪</g> wherein we agree not like that prudent Nation; nor doe we employ our ſelves to ſuck Honey from flowers, but deſire rather to ſuck our neigh<g ref="char:EOLhyphen"/>bours blood, each envying his neighbour ſurviveth, and ſome ſo wretchedly inclined, that they could be content to part with all their ſubſtance that another might become poore; thoſe ravenous devourers of the poore, that eate up the people as it were bread, may fitly be compared to Hornets, that ſing P<gap reason="illegible" resp="#UOM" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ns to <hi>Bacchus</hi> in Taverns, accompanied with <note n="*" place="margin">A Whore.</note> 
+               <hi>La<gap reason="illegible" resp="#UOM" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>
+               </hi> and <note n="*" place="margin">A Minſtrill</note> 
+               <hi>Zenophilus,</hi> that weare the Kingdomes ſpoiles in their eares, and dance on the ruines of a Nation; thoſe now placed in authority to procure the peoples good, and yet as tyrants play Rex over them, may fitly he compa<g ref="char:EOLhyphen"/>red to Waſpes, that ſit as chair-men, dooming men and their cau<g ref="char:EOLhyphen"/>ſes, ſo as may moſt tend to their gaine and benefit; thoſe Neutra<g ref="char:EOLhyphen"/>lians that ſit ſtill and worſhip no God ſave <hi>Ceres</hi> and <hi>Bacchus,</hi> that cry out with <hi>Horace,</hi> broach the Falerne Wine, and let things hap as they will; each of theſe diſcerne not the confuſed number of perturbations hover over their heads, which will certainly deſcend upon them, which puniſhments they ſhall not be able to evade. But to our libeller.</p>
+            <pb n="4" facs="tcp:159828:5"/>
+            <p> In dealing with this libeller I know</p>
+            <l>
+               <hi>Quo quiſque eſt major, magis eſt placabills <gap reason="illegible" resp="#UOM" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>,</hi>
+            </l>
+            <l>
+               <hi>Et faciles motus mens generoſa capit.</hi>
+            </l>
+            <l>A greater man were ſooner pacified,</l>
+            <l>A Noble ſpirit's quickly pacified.</l>
+            <p>But for that the vulgar are more taken with vulgar works, then with the writs of the wiſe, and knowing it is expedient they ſhould be undeceived, and ſee the vanity of their chieftaines, therefore, Whereas the libeller, in the name of his complices, <hi>We,</hi> accounts it as a diſparagement to them, for that <hi>Lilburne</hi> hath not his <note n="*" place="margin">Titles.</note> Titles beſtowed on him, gained more by fortune then merit: I anſwer, that the moſt famous Conſuls of <hi>Rome,</hi> ſometime brought through the City in triumph, have upon occaſion of their default and per<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#UOM" extent="2 letters">
+                  <desc>••</desc>
+               </gap>liouſneſſe, been led through the ſame City in bands: is it not ſtange than a fellow of no worth<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap> ſuch an one as <hi>Lilburne</hi> ſhould occaſion as <gap reason="illegible" resp="#UOM" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> at trouble in London as ever <hi>Cataline</hi> did to Rome? but we have as valiant and prudent <hi>
+                  <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>iceros,</hi> who I doubt not will ere long ſuppreſſe this faction, and bring them to as condigne puniſhment as <gap reason="illegible" resp="#UOM" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> that di<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>urber and his complices. And whereas the Libeller chargeth it on the conſciences of the Lords, that they <hi>know him to be true borne Gentleman,</hi> I anſwer, that if it were granted, yet onely vertuous and pious actions are ſymptomes of Gentil<gap reason="illegible" resp="#UOM" extent="3 letters">
+                  <desc>•••</desc>
+               </gap> and i<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap> we ſhould can <hi>Lilburnes</hi> ſeditious proceedings, by them we could gueſſe him to be no other but a branch ſprung from the ancient ſtock of renowned IR<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>S; but it is evident to all the would that <hi>Lilburne</hi> is not of Gentle blood, but deſcended of an unworthy family, being in his minority an obſcure apprentice of London and if the Reader deſire to be further enformed, I refer him to a Treatiſe of mine, entituled, <hi>The Famers Famd,</hi> being an anſwer to a paire of Treatiſes, written in the behalfe of <hi>Lilburne,</hi> th<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>one e<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>tit<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>led <hi>The Juſt man in Bonds,</hi> the other <hi>A Pearle in a Dung-hill.</hi> I now proceed.</p>
+            <p>
+               <hi>But if Titles were of any value, or Honour of any eſteem, he deſerveth the Title of Lieutenant Colonel, and the Honour he hath gotten in the field, in the defence of his Countries liberties, as well as any of you your Titles of Honour, if <gap reason="illegible" resp="#UOM" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> better, and more and more worthily; for by what <gap reason="illegible" resp="#UOM" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>ns many of you came by yours is very uncertain.</hi>
+            </p>
+            <p>See the ridiculous ignorance of the libeller, worthy to be laughed
+<pb n="5" facs="tcp:159828:5"/> at, he ſaith, <hi>if Titles were of any valew;</hi> that Titles are of worth, we are informed by God, ſpeaking by the mouth of his ſervants. St. <hi>Paul</hi> counſelleth the Romans to Honour thoſe worthy thereof, <hi>the Elders,</hi> or rather Leaders <hi>that rule well, are worthy of double Ho<g ref="char:EOLhyphen"/>nour;</hi> our Saviour ſaith, <hi>Give Tribute to whom Tribute belongeth, Honour to whom Honour is due;</hi> with infinite other places, which for brevity ſake I omit. So that Titles and Honour is of valew, and ought to be valewed, hath been ever, and aye will be reſpected by the vertuous, and thoſe that contenanc and diſeſteem, detract not from them, but worke ruine to themſelves, as St. <hi>Paul</hi> ſaith, <hi>ſin againſt their own ſoules.</hi> And whereas the Pamphleter ſaith, that <hi>he deſerveth the Title of Lieutenant Colonel, the Honour he hath gotten in the field in the defence of his Countreys Liberties,</hi> I anſwer, that that Honour had been worthily beſtowed on him, had he gone forth out of a ſincere intent to fight for his Countrey, and for the King<g ref="char:EOLhyphen"/>domes good: but his intent in arming himſelfe was rather to de<g ref="char:EOLhyphen"/>fend and ſecure himſelfe from arreſts of his creditors, then to offend, and bring low the enemy, as I have already made apparant to the world in my anſwer to two Libels aforementioned. Com<g ref="char:EOLhyphen"/>pariſons are odious; the audacious libeller ſticketh not to paralel <hi>Lilburnes</hi> Honour with the Lords, and goeth about to prove his Honour equivolent, nay tranſcendent to theirs. Was ever known ſuch brazen impudence? the ages to come will ſtand amazed, and read this truth but as a fiction. Neither is this ſufficient, but the libeller proceedeth, not ſtinting till he arrive at the very height of evill, <hi>for by what meanes ſome of you came by yours,</hi> (ſaith he) mea<g ref="char:EOLhyphen"/>ning the Lords, <hi>is very uncertain.</hi> Though your ignorance falſely informe, yet the wiſe know and can avouch by what meanes the houſe of Peeres have attained to their worthily deſerved Honours, who can derive their pedegree, and make it apparent to the world, that they are the ſonnes of thoſe men whoſe Heroick actions in de<g ref="char:EOLhyphen"/>fence of their Countrey deſerved no leſſe but a far greater recom<g ref="char:EOLhyphen"/>pence. But I amplifie too much upon ſo abſurd an objection.</p>
+            <p>
+               <hi>And therefore in the charge you bring againſt him, if yet you wil perſiſt, afford him his Title; uſe him not altogether as a ſlave, though you have made Newgate his habitation, and from thence have, removed him to the Tower of London; whether to murther him privately from the peoples know<g ref="char:EOLhyphen"/>ledge we cannot tell, we judge little leſſe.</hi>
+            </p>
+            <pb n="6" facs="tcp:159828:6"/>
+            <p> The charge brought againſt him the world knowes, which ge<g ref="char:EOLhyphen"/>nerally talketh of his folly, and it is not needfull to ſet down; he is become a by-word to the ſonnes of men; and doubtleſſe it will be Proverbe in the next age, that when any man ſhall be notori<g ref="char:EOLhyphen"/>ouſly known to be ſeditious, he ſhall be ſaid to be, as FACTIOUS and REBELLIOUS as ever was LILBURNE. But the Libeller is netled, 'cauſe the Lords in their warrant afforded him not his Title; know foole that men honourable indeed, have as a reward of their miſdemeanors been ere now degraded; and is it ſuch a breach for this upſtart to have a Title, whereof he is not worthy, debarred him? he hath forfeited his empty Title; a triviall power beſtowed it on him, but a power full and abſolute taketh it away. (But the Libeller propoſeth he might not be uſed like a ſlave) his uſage hitherto hath been with lenity, ſuch as the nature of his crime merited not; and did not the Lords out of Nobleneſſe of their nature, limmit their power, the weight of his Irons ſhould weigh him down, (as his ſinne will once,) even beneath the centre; he ſhould be brought forth, and either make publique recantation of his high contempt, or elſe undergoe exemplary puniſhment, what he and all other libellers and diſturbers ought to ſuffer by the known law of the Land, I have <note n="*" place="margin">In my an<g ref="char:EOLhyphen"/>ſwer to two Li<g ref="char:EOLhyphen"/>bells, the one intituled the juſt man in bonds, the o<g ref="char:EOLhyphen"/>ther a p<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>arle in a dunghill.</note> elſewhere ſhewn, and therefore here ſhall not inſert. But ſee the prodigious baſeneſſe of the libel<g ref="char:EOLhyphen"/>ler, he would have the world believe; that the removall of <hi>Lilburne</hi> from Newgate to the Tower is out of ſome ſecret intent the Lords have to murther him privately there. Sirrah, know, the greater crime, the greater puniſhment; and the more obdurate the male<g ref="char:EOLhyphen"/>factor is, the more ſure ought be his bands; but the certaine cauſe of his commitment to the Tower, I conceive is, for that his offen<g ref="char:EOLhyphen"/>ces are treaſonable. He that withſtandeth the Kings Vicegerent, oppoſeth the King, and indeed God, from whom he deriveth his power, ſo long as things lawfull are commanded by him; and he that reſiſteth the King commanding, as aforeſaid, things lawfull, and not deſtructive to himſelf, is a Traytor, and as a Traytor ought to ſuffer. But ſee yet more impudencies.</p>
+            <p>
+               <hi>But by this we may diſcerns your unſufferable incroachments upon our common Rights, daily increaſing upon us, which in time, if not preven<g ref="char:EOLhyphen"/>ted, will wholy enſlave and vaſſalage us all; for it is come to this already that the</hi> Free-men <hi>of</hi> England <hi>cannot goe to ſee their</hi> Fellow Com<g ref="char:EOLhyphen"/>moner,
+<pb n="7" facs="tcp:159828:6"/> 
+               <hi>without bazzard of their Freedomes; and it is an act ſo unrea<g ref="char:EOLhyphen"/>ſonable and deſtructive to us, that we cannot chuſe but take notice of it, and let you know, that</hi> We <hi>cannot, neither will we ſuffer ſuch intolerable affronts at your hands.</hi>
+            </p>
+            <p>
+               <hi>Calvin</hi> in his <note n="*" place="margin">the preface.</note> booke intituled, <hi>Inſtructio adverſus libertines</hi> ſaith, <hi>Cum ſceleſta, &amp; pernicioſa, aliqua ſecta pullulare O cepit praeſertim vero cum augeſ<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>it, eorum quo Deus ad aedificandum, Eccleſiam conſtituit, of<g ref="char:EOLhyphen"/>ficium eſt ire obv<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>am ac fortifer, reſiſiere priuſquam, ad perdenda &amp; e<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>rrumpend<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> omnia vires ſumpſ<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>rit.</hi> When any pernicious ſect begins to ariſe, but chiefly when it grows, tis the duty of them whom God hath appointed to build up his Church to oppoſe it ſtrongly, and to appeare againſt it before it get ſtrength to corrupt and de<g ref="char:EOLhyphen"/>ſtroy all. Now cauſe the houſe of Lords hath done as this holy man adviſeth, nay as the ſacred Scriptures command, to wit, have ſuppreſſed the Author of a moſt pernicious ſect; or if they will not yield to that, the Broacher of new hereſies and blaſphemies, <hi>Lilburne,</hi> therefore they unſufferably encroach on the Commons Rights, and intend to bring them into ſlavery and bondage. I know the Sectaries &amp; their abettors will not ſtick to ſay, that I WIL RUN WITH THE WIND, that I am a timeſerver, and ſooth up the Lords in hope of gaine; but let ſuch know there is as great en<g ref="char:EOLhyphen"/>mity betwixt flattery and my nature as between the Wolfe and the Sheep. I know that Miniſters firſt care ought to be of the Name of God, and next of the ſalvation of others, and I reſolve with <hi>Horum alterum, cum intercidere, neceſſe fit pereat p<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>pa, pereant impii Magi<g ref="char:EOLhyphen"/>ſtratus</hi> 
+               <note n="*" place="margin">Luther in <hi>c.</hi> 9. Hoſ.</note> 
+               <hi>pereant impiorum dogmatim patroni, pereat totus mandus, &amp; ſalvetur Deo ſua gloria ſuum verbum ſu<gap reason="illegible" resp="#UOM" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> cultus amen.</hi> When any thing is done by which of neceſſity either of thoſe muſt ſuffer and fall to the ground, let the Pope periſh, let wicked Magiſtrates pe<g ref="char:EOLhyphen"/>riſh, let the patrons of wicked opinions periſh, let the whole World periſh, and let Gods glory, his Church, and his Worſhip be ſaved. But the Libeller proceedeth, and ſheweth that already they are in ſome ſort enſlaved for, ſaith he, <hi>a Commoner of England cannot go to ſee his fellow &amp;c.</hi> Let any capable of ſence judge whether it be convenient that one convicted of tranſcendent crimes ought to have his com<g ref="char:EOLhyphen"/>biners and abbettor have free acceſſe to him, by whoſe poyſonous Rhetorick he may not onely be more hardned in evill, but alſo may <note n="*" place="margin">as Lilburne in his inpri<g ref="char:EOLhyphen"/>ſonment for<g ref="char:EOLhyphen"/>merly hath done, to the very great di<g ref="char:EOLhyphen"/>ſturbance of the peace of the Kingdom.</note> deliver to them papers ſtuffed with language of dangerous
+<pb n="8" facs="tcp:159828:7"/>
+               <gap reason="duplicate" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap>
+               <pb n="9" facs="tcp:159828:7"/>
+               <gap reason="duplicate" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap>
+               <pb n="8" facs="tcp:159828:8"/> conſequence to be diſperſt abroad, as may occaſion the ſubvertment and deſtruction of this Nation, and the deterring of theſe men from their brother in euill, is thought by them to be an act ſo un<g ref="char:EOLhyphen"/>reaſonable and deſtructive to them, that they cannot but take no<g ref="char:EOLhyphen"/>tice of it, and publiſh to the world in print, that <hi>they cannot nor will not ſuffer ſuch unſufferable Affronts;</hi> that the act is not un<g ref="char:EOLhyphen"/>reaſonable, but juſt, I have already proved, but that it is deſtructive to their proceedings I ſhall eaſily believe; and for that intent it is performed, to wit, to impede the growth of evill, and hinder the corrupting of many; but for that tis ſaid they cannot nor will not ſuffer (as they preſumptuouſly terme them) ſuch intollerable af<g ref="char:EOLhyphen"/>fronts: all from thence to be gathered is, that theſe intend to re<g ref="char:EOLhyphen"/>bell, and could they have <hi>Lilburne</hi> for leader, he would play <hi>Judas</hi> of <hi>Galile,</hi> and lead forth; but which of them would returne? but they ſpeake their deſires not their abilities, the points of their ſpeares are dulled, and the edges of their Swords rebated.</p>
+            <p>
+               <hi>But he hath got a good cauſe, and all good people that deſire not to live by oppreſſion of others are of his ſide, and that your Lordſhips will finde, for all theſe things will be laid open as the ſunne, and every man will ſee wherefore you call his Books ſcandalous, ſeditious, and dangerous Pamphlets; and why the Judges, Lawyers, and Monopoliſts are his deadly Adverſaries, even becauſe he deales plainly betwixt you all, and the people, whom you labour by all means joyntly to keep in bondage and vaſſalage to your wils.</hi>
+            </p>
+            <p>The greateſt Hereticks, Traytors, or Conſpirators that ever yet ſuffered condigne puniſhment have pretended a good cauſe, was their prop, &amp;c. and for that the Libeller ſaith (all good people are on his ſide, and that the houſe of Lords will finde) I ſuppoſe he meaneth ſuch good people, as under pretence of goodneſſe act the very worſt of wickedneſſe, ſeditious, ſlanderous, and reprobated perſons, no other can nor will adhere to <hi>Lilburne</hi> in his ſeditious and unparaleld rebellious courſes; and theſe I hope (ſaying with the Libeller) the houſe of Lords will finde, and bring to condigne puniſhment. I hope they will make a diſcovery, and finde out, the ſeditious Author of a ſlanderous Libell, entituled, <hi>EVERY MANS RIGHTS,</hi> or <hi>Englands PERSPECTIVE,</hi> the Author of a con<g ref="char:EOLhyphen"/>temptuous and diſdainfull reviling Paper, entituled <hi>SEVERALL VOTES OF TENDER CONSCIENCES,</hi> at the bottome of
+<pb n="9" facs="tcp:159828:8"/> which Paper is portraied a Pope, a Presbyter, termed Antichriſtian, and a Prelate; all theſe, each a dagger in hand, ſtabbing at an heart furniſht with wings and termed <hi>TENDER CONCIENCE,</hi> the Author of a Paper that ſtriketh at Church and State, Emblemati<g ref="char:EOLhyphen"/>cally called the <hi>WATCHMANS WARNING PIECE,</hi> the Em<g ref="char:EOLhyphen"/>bleme is, a man iſſuing forth a wood, his weapons abandoned, and caſt beneath a Tree, when on a ſuddenly he is aſſailed by a Dragon, a Leopard, and a Serpent; the Author preſumeth to explaine his Embleme thus: would you thinke Independents could verſifie?</p>
+            <lg>
+               <l>And what is by this EMBLEM repreſented?</l>
+               <l>The STATE, by Plots of Papiſts circumvented</l>
+               <l>Shall I demonſtrate ſtill, to make you know,</l>
+               <l>That theſe (<note n="*" place="margin">Papiſts</note> P <note n="*" place="margin">Presbiters.</note> P <note n="*" place="margin">Prelats.</note> P) are Papiſts all a row.</l>
+            </lg>
+            <lg>
+               <l>The Dragons head, the Pope doth repreſent</l>
+               <l>His ſharpt tongu'd <note n="*" place="margin">His ſting.</note> ſhaft, curſes which he doth vent</l>
+               <l>His teeth are envie, and his hornes are Power</l>
+               <l>The Dragons body, is Romes Church that WHORE.</l>
+            </lg>
+            <lg>
+               <l>The ſpotted Leopard alſo hath his doome</l>
+               <l>This body pleads, for Prelats brats of Rome</l>
+               <l>His jawes are malice, head EPISCOPALL</l>
+               <l>A gaping mouth, teeth, pawes tyrannicall.</l>
+            </lg>
+            <lg>
+               <l>The crooked Serpent, creepes upon the earth</l>
+               <l>An Antichriſtian PRESBITER, by birth</l>
+               <l>His head's from Rome, his Tayle and Body ſo</l>
+               <l>With them to aye perdition, he ſhall goe.</l>
+            </lg>
+            <p>But to the Libeller who ſaith, that things ſhal be laid open as the Sun and all men ſhall ſee why his Books are called ſcandalous, ſedi<g ref="char:EOLhyphen"/>tious, and dangerous Pamphlets.</p>
+            <p>Things need not be made more evident then they are, and all men not beſotted, ſee and know why and on what ground his Bookes are termed juſtly, SCANDALOVS SEDITIOVS and DANGEROVS Pamphlets, but the Libeller ſticketh not to main<g ref="char:EOLhyphen"/>taine moſt eroneus paradoxes; <hi>ineptae &amp; fabuloſae nugae,</hi> through<g ref="char:EOLhyphen"/>out his whole Pamphlet whereof this is a grand one, but ſaith he,
+<pb n="10" facs="tcp:159828:9"/> his chiefe enemies are the Clergy, Judges, and Lawyers, and Mono<g ref="char:EOLhyphen"/>poliſts, O unheard of inſolencie, he ranketh the Clergy and Judges, with the Monopoliſts and Lawyers; all Clergy-men Judges Law<g ref="char:EOLhyphen"/>yers and all men of what craft or faculty ſoever, ought as they ten<g ref="char:EOLhyphen"/>der their welfare in this world, and that to come, to abhorre, abo<g ref="char:EOLhyphen"/>minate, and declare againſt, the ſeditious, rebellious, and de<g ref="char:EOLhyphen"/>ſtructive proceedings of <hi>Lilburne,</hi> and his wicked complices, but ſee he goeth further, and maketh the Lords Judges Lawyers and Monopoliſts <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ombiners together, uſing their utmoſt endeavour, to bring the people into bondage; alas alas, my friends, what need a<g ref="char:EOLhyphen"/>ny goe about to enſlave you; who ſeeke all the meanes poſſible to fetter your ſelves; and I may boldly averr ſuch is your ignorance accompanied with ſelfe conceit, that you differ in a ſmall manner from the Atheiſts, all your life is that you love to goe to Church with great Bibles under your arme, but he that knowes beſt how to judge, ſaith, <hi>cor doloplenum, ſonant vitium percuſſa maligne,</hi> you will now and then, <hi>Dare operam Auguſtino,</hi> read Auſtin frequent Ser<g ref="char:EOLhyphen"/>mons, and yet profeſſed uſurers, meere gripes, <hi>tota vitae ratio Epi<g ref="char:EOLhyphen"/>curea eſt,</hi> all your life is Epicuriſme, and Atheiſme, come to Church all day and lie with a Curteſan at night.</p>
+            <q>Qui curios ſimulant, &amp; Bachinalia vivunt.</q>
+            <p>But of you enough from whom we have felt too much.</p>
+            <p>
+               <hi>And therefore it will be good for your Lordſhips, in this charge to re<g ref="char:EOLhyphen"/>flect upon your ſelves, the people are now quick ſighted, not eaſily deluded, if it were not ſo</hi> Mr. Lilburne <hi>were in a ſad caſe, for here is no leſse then the whole houſe of Peeres his accuſers &amp;c.</hi>
+            </p>
+            <p>Now the Libeller, having before threatned the Lords and ſhew<g ref="char:EOLhyphen"/>ed them the dangers they have run into, by cenſuring and impriſo<g ref="char:EOLhyphen"/>ning <hi>Lilburne,</hi> whom the Libeller is not aſhamed; to terme in the title of his libell (DEFENDOR OF THE FAITH) I ſay having ſhewed them into what a premunire they are fallen, he now giveth his judgement; and adviſeth the Lords, to reflect on themſelves, (for the people are quick ſighted) I wiſh it were ſo indeed, and that they had Eagles eyes, to diſcerne the vanity and wickedneſſe of their ſeducers, who under pretence of adviſing them, in matters neceſſary and behovefull for them, incite them to ſtrife, malice, and ſedition, the onely way to worke their owne and this Kingdomes ruines;
+<pb n="11" facs="tcp:159828:9"/> and it is to be admired as a ſigne and evident token of Gods un<g ref="char:EOLhyphen"/>ſpeakable mercy, that we are yet a people, for as the Author of an excellent Poem ſaith. <note place="margin">Intituled an expoſtulatory anſwer, to a deriſory Que<g ref="char:EOLhyphen"/>ſtion.</note>
+            </p>
+            <l>If waſte Jeruſalem were made</l>
+            <l>Who therein but three Factions had</l>
+            <l>This Iſland, how may we deplore</l>
+            <l>Wherein are three times three, and more.</l>
+            <p>But I know and can aſſure the world, that no people whatſoever they that deſire to tread the paths of godlineſſe, but their ſight doth ſerve them and to their griefe they behold the unpleaſing waies to God, and the deſtructive waies to this Nation that <hi>Lilburn</hi> and his complices take; and for that the Libeller placeth his con<g ref="char:EOLhyphen"/>ſidence in the people, and ſaith but for them, <hi>Lilburne</hi> were in a ſad caſe, for ſaith he here is no leſſe then the whole houſe of Peeres his accuſers, O vaine confidence, if the people as you ſay, (and as I fairely hope) will not be eaſily deluded, alas your hopes are frus<g ref="char:EOLhyphen"/>trate, remember the proverbe; they may perchance ſome of them be ſo evilly inclined as to allow of <hi>Lilburnes</hi> proceedings, yea and to love him therefore, but notwithſtanding you will finde they love themſelves better, and will not to ſave him from due puniſhment, hazard their owne welfare, but let's proceede.</p>
+            <p>
+               <hi>You will finde that you are not yet Lords over the PARLIAMENT, you haue not the leaſt power to diſpoſe of the monies of the Common-wealth, much leſſe to impriſon mens perſons at your pleaſure.</hi>
+            </p>
+            <p>Folly mixed with impudence is unſufferable and a Lyer in Print to be abhominated, it is the maine plot, and chiefe deſire of the Sectaries, could they have their deſires, to raiſe a diſcord and a dif<g ref="char:EOLhyphen"/>ference betwixt the two houſes of Parliament, this the Libeller go<g ref="char:EOLhyphen"/>eth about to procure; ſaying, and as it were menacing the Lords, you will finde that you are not yet Lords over the Parliament (meaning the honourable Houſe of Commons) they have learnt <hi>Machiavills</hi> maxime, <hi>divide &amp; impera</hi> devide and prevaile, but the ever to be honoured Lords &amp; Commons, are ſo ſurely tied together in that Gordian knot of the Covenant, they ſtand as a rock, fixed in the ſea, againſt which though the waves daſh and murmur, as be<g ref="char:EOLhyphen"/>ing repel'd, they remaine ſollid and unmoveable, but the Libeller
+<pb n="12" facs="tcp:159828:10"/> giveth an inſtance of ſome diviſion betwixt the Houſes, for ſaith he, you have not the leaſt power, to (diſpoſe of the money of the com<g ref="char:EOLhyphen"/>mon-wealth) no, why then doth the Commons ſend up to the Lords for their concurrence, ere any loane of money is levyed or diſburſed, therefore his is notoriouſly falſe and ſubbornd, raiſed on purpoſe to bring the Lords into contempt, and for the inpriſoning mens perſons, their power and authority avoucheth, and they are inabled to puniſh notorious offendors, ſuch as <hi>Lilburne</hi> and his complices; but how long will ye diſcent O ye ſeditious; me thinks the tumults, uproars, anguiſh, and dangers that attend upon it might perſwade you, the more you contend the more you ſhall be invol<g ref="char:EOLhyphen"/>ved in a labyrinth of woes, 'tis an Hydras head, the more you ſtrive the more you may, for my owne part I have written in anſwer to you, knowing the moſt obdurate have been convinced of their error, <hi>Nemo deſperet meliora lapſus.</hi>
+            </p>
+            <p>And now for as much as I have little reaſon to expect but as is your manner, to all whom you affect not, to be vilified in print, but this is my buckler.</p>
+            <l>
+               <hi>Integritas virbuſque ſuo manimine tata</hi>
+            </l>
+            <l>
+               <hi>Non patet adverſae morſibus invidiae</hi>
+            </l>
+            <l>Vertue and integrity, are their owne fence.</l>
+            <l>Care not for envy, or what comes from thence.</l>
+            <p>I ſay doe even as your malevolent ſpirits ſhall prompt you; while I admire your folly, and lament your puniſhments.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
